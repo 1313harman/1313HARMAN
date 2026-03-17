@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱 I’m currently learning System Design and DevOps<br>💬 Ask me about Full Stack Development<br>
+🚀 Building full-stack apps with React & Node<br />⚙️ Exploring System Design & DevOps<br>🎯 Working towards becoming a scalable Full Stack Engineer focused on building high-performance applications<br>
 
 
 ## 🌐 Socials:
