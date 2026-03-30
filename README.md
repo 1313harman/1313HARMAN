@@ -42,9 +42,7 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=1313harman&theme=dark&hide_border=true&show_icons=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=1313harman&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1313harman&theme=dark&hide_border=true&layout=compact)
 
 ---
 
