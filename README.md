@@ -42,9 +42,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=1313harman&theme=dark&hide_border=true" />
-</p>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=1313harman&theme=dark&hide_border=true)
 
 ---
 
