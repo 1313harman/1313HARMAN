@@ -45,11 +45,11 @@
 ## 📊 GitHub Stats
 <p align="left">
 <img width="48%" src="https://streak-stats.demolab.com?user=1313harman&theme=dark&hide_border=true"/>
-<img  width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1313harman&layout=compact&theme=tokyonight&hide_border=true"/>
+<img  width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1313harman&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="left">
-<img width="84%" src="https://github-readme-activity-graph.vercel.app/graph?username=1313harman&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true"/>
+<img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=1313harman&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true"/>
 </p>
 
 
