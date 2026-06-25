@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img  width="23%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1313harman&layout=pie&theme=tokyonight&hide_border=true"/>
+<img  width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1313harman&layout=pie&theme=tokyonight&hide_border=true"/>
 <img width="58%" src="https://streak-stats.demolab.com?user=1313harman&theme=dark&hide_border=true"/>
 </p>
 
