@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
-<img width="83%" src="https://github-readme-activity-graph.vercel.app/graph?username=1313harman&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true"/>
+<img width="84%" src="https://github-readme-activity-graph.vercel.app/graph?username=1313harman&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true"/>
 </p>
 
 
